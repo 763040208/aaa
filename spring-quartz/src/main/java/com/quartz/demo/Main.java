@@ -6,5 +6,6 @@ public class Main {
         System.out.println("666的年轻人");
         System.out.println("这是测试最后一遍");
         System.out.println("小确丧");
+        System.out.println("不要在丧下去了");
     }
 }
